@@ -1,13 +1,13 @@
 # std-pkg
 
-> The Official `package.json` Standard™ for npm® endorsed fields†
+> The Official `package.json` Standard™ for Npm® endorsed fields†
 
 - Lazily asserts Correct™ values using getters
 - Strongly typed
 - Includes community standards
 
 This is useful if you're writing tooling around `package.json` and want to make
-sure you are following the Official `package.json` Standard™.
+sure you are following the Official NPM `package.json` Standard™.
 
 ## Install
 

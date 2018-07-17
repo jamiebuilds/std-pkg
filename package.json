@@ -1,0 +1,39 @@
+{
+  "name": "std-pkg",
+  "version": "0.0.0",
+  "description": "The Official package.json Standard™ for npm® endorsed fields",
+  "main": "index.js",
+  "repository": "https://github.com/jamiebuilds/std-pkg",
+  "author": "Jamie Kyle <me@thejameskyle.com>",
+  "license": "MIT",
+  "keywords": [
+    "package.json",
+    "package",
+    "pkg",
+    "json",
+    "official",
+    "standard",
+    "fields",
+    "assert",
+    "typed",
+    "validation",
+    "validate",
+    "valid",
+    "parse"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "detect-indent": "^5.0.0",
+    "parse-json": "^4.0.0",
+    "sarcastic": "^1.4.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "flow-bin": "^0.76.0"
+  }
+}

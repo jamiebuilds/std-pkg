@@ -1,6 +1,6 @@
 {
   "name": "std-pkg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The Official package.json Standard™ for npm® endorsed fields",
   "main": "index.js",
   "repository": "https://github.com/jamiebuilds/std-pkg",

@@ -40,6 +40,13 @@ const isWorkspaces = is.either(
  */
 
 class Package {
+  /*::
+  _filePath: string;
+  _fileContents: string;
+  _json: mixed;
+  _indentation: string;
+  */
+
   constructor(filePath /*: string */, fileContents /*: string */) {
     this._filePath = is(filePath, is.string, 'filePath');
     this._fileContents = is(fileContents, is.string, 'fileContents');
